@@ -1,0 +1,219 @@
+[
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/lichtenberg/wh-allee-der-kosmonauten.html",
+    "title": "WH Allee der Kosmonauten",
+    "adress": "Allee der Kosmonauten 20 10315 Berlin",
+    "lat": "52.5241256",
+    "lon": "13.5126025"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/lichtenberg/wh-aristotelessteig.html",
+    "title": "WH Aristotelessteig",
+    "adress": "Aristotelessteig 2 10318 Berlin",
+    "lat": "52.4916256",
+    "lon": "13.5214163"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/mitte/wh-augustenburger-platz.html",
+    "title": "WH Augustenburger Platz",
+    "adress": "Luxemburger Straße 20 13353 Berlin",
+    "lat": "52.5430031",
+    "lon": "13.3511364"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/steglitz-zehlendorf/wh-salvador-allende.html",
+    "title": "WH Bitscherstraße, Garystraße und Clayalle (\"Salvador Allende\")",
+    "adress": "Bitscherstrasse 2 14195 Berlin",
+    "lat": "52.4506422",
+    "lon": "13.2769353"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/steglitz-zehlendorf/wh-brentanostraße.html",
+    "title": "WH Brentanostraße",
+    "adress": "Brentanostraße 50a 12163 Berlin",
+    "lat": "52.4621094",
+    "lon": "13.3077502"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/lichtenberg/wh-coppistraße.html",
+    "title": "WH Coppistraße (Hans und Hilde Coppi)",
+    "adress": "Coppistraße 14 10365 Berlin",
+    "lat": "52.5081379",
+    "lon": "13.4822698"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/charlottenburg-wilmersdorf/wh-danckelmannstraße.html",
+    "title": "WH Danckelmannstraße",
+    "adress": "Danckelmannstr. 46 14059 Berlin",
+    "lat": "52.5143545",
+    "lon": "13.2910041"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/charlottenburg-wilmersdorf/wh-dauerwaldweg.html",
+    "title": "WH Dauerwaldweg",
+    "adress": "Dauerwaldweg 1 14055 Berlin",
+    "lat": "52.4902153",
+    "lon": "13.2601491"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/charlottenburg-wilmersdorf/wh-düsseldorfer-straße.html",
+    "title": "WH Düsseldorfer Straße",
+    "adress": "Düsseldorfer Straße 67 10719 Berlin",
+    "lat": "52.4957213",
+    "lon": "13.3208440"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/mitte/wh-derfflingerstraße-(haus-unger).html",
+    "title": "WH Derfflingerstraße (Haus Unger)",
+    "adress": "Derfflingerstraße 21 10785 Berlin",
+    "lat": "52.5032501",
+    "lon": "13.3565687"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/charlottenburg-wilmersdorf/wh-eichkamp.html",
+    "title": "WH Eichkamp",
+    "adress": "Harbigstraße 14 14055 Berlin",
+    "lat": "52.5026370",
+    "lon": "13.2631240"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/friedrichshain-kreuzberg/wh-franz-mehring-platz.html",
+    "title": "WH Franz-Mehring-Platz",
+    "adress": "Franz-Mehring-Platz 2 10243 Berlin",
+    "lat": "52.5128078",
+    "lon": "13.4376484"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/charlottenburg-wilmersdorf/wh-fraunhoferstraße.html",
+    "title": "WH Fraunhoferstraße",
+    "adress": "Fraunhoferstraße 25 10587 Berlin",
+    "lat": "52.5150349",
+    "lon": "13.3182973"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/steglitz-zehlendorf/wh-gelfertstraße.html",
+    "title": "WH Gelfertstraße",
+    "adress": "Gelfertstraße 45 14195 Berlin",
+    "lat": "52.4512234",
+    "lon": "13.2779009"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/steglitz-zehlendorf/wh-goerzallee.html",
+    "title": "WH Goerzallee",
+    "adress": "Goerzallee 119 12207 Berlin",
+    "lat": "52.4209830",
+    "lon": "13.2974827"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/steglitz-zehlendorf/wh-halbauer-weg.html",
+    "title": "WH Halbauer Weg",
+    "adress": "Halbauer Weg 19 12249 Berlin",
+    "lat": "52.4335097",
+    "lon": "13.3629532"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/charlottenburg-wilmersdorf/wh-hardenbergstraße.html",
+    "title": "WH Hardenbergstraße",
+    "adress": "Hardenbergstraße 34 10623 Berlin",
+    "lat": "52.5098022",
+    "lon": "13.3262022"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/reinickendorf/wh-hoppestraße.html",
+    "title": "WH Hoppestraße",
+    "adress": "Hoppestraße 17 13409 Berlin",
+    "lat": "52.5704193",
+    "lon": "13.3786352"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/charlottenburg-wilmersdorf/wh-hubertusallee.html",
+    "title": "WH Hubertusallee",
+    "adress": "Delbrückstraße 24 14193 Berlin",
+    "lat": "52.4841191",
+    "lon": "13.2818981"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/neukölln/wh-juliusstraße.html",
+    "title": "WH Juliusstraße",
+    "adress": "Juliusstraße 33 12051 Berlin",
+    "lat": "52.4632899",
+    "lon": "13.4346561"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/charlottenburg-wilmersdorf/wh-mollwitzstraße.html",
+    "title": "WH Mollwitzstraße",
+    "adress": "Mollwitzstraße 3 14059 Berlin",
+    "lat": "52.5216515",
+    "lon": "13.2876812"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/mitte/wh-neue-hochstraße.html",
+    "title": "WH Neue Hochstraße",
+    "adress": "Neue Hochstraße 49 13347 Berlin",
+    "lat": "52.5389761",
+    "lon": "13.3752712"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/tempelhof-schöneberg/wh-nollendorfstraße.html",
+    "title": "WH Nollendorfstraße",
+    "adress": "Nollendorfstraße 21a 10777 Berlin",
+    "lat": "52.4974800",
+    "lon": "13.3497124"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/marzahn-hellersdorf/wh-oberfeldstraße-(victor-jara).html",
+    "title": "WH Oberfeldstraße (Victor Jara)",
+    "adress": "Oberfeldstraße 111 12683 Berlin",
+    "lat": "52.5289008",
+    "lon": "13.5586193"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/charlottenburg-wilmersdorf/wh-pfalzburgerstraße.html",
+    "title": "WH Pfalzburgerstraße",
+    "adress": "Pfalzburger Straße 29 10717 Berlin",
+    "lat": "52.4912480",
+    "lon": "13.3212598"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/mitte/wh-potsdamer-straße.html",
+    "title": "WH Potsdamer Straße",
+    "adress": "Potsdamer Straße 61 10785 Berlin",
+    "lat": "52.5040643",
+    "lon": "13.3670078"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/lichtenberg/wh-sewanstraße.html",
+    "title": "WH Sewanstraße",
+    "adress": "Sewanstraße 173 10319 Berlin",
+    "lat": "52.4964119",
+    "lon": "13.5113598"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/mitte/wh-siegmunds-hof.html",
+    "title": "WH Siegmunds Hof",
+    "adress": "Siegmunds Hof 2 10555 Berlin",
+    "lat": "52.5156570",
+    "lon": "13.3360633"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/charlottenburg-wilmersdorf/wh-spandauer-damm.html",
+    "title": "WH Spandauer Damm",
+    "adress": "Spandauer Damm 134 14050 Berlin",
+    "lat": "52.5197391",
+    "lon": "13.2744460"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/lichtenberg/wh-storkower-straße-(ferdinand-thomas).html",
+    "title": "WH Storkower Straße (Ferdinand Thomas)",
+    "adress": "Storkower Straße 219 10367 Berlin",
+    "lat": "52.5231717",
+    "lon": "13.4755443"
+  },
+  {
+    "url": "https://www.stw.berlin/wohnen/wohnheime/friedrichshain-kreuzberg/wh-wassertorplatz.html",
+    "title": "WH Wassertorplatz",
+    "adress": "Kohlfurter Straße 2 10999 Berlin",
+    "lat": "52.4976818",
+    "lon": "13.4135235"
+  }
+]
