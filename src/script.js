@@ -40,7 +40,7 @@ function createPopupContent(el) {
     let content = `<div class="card"><h3>${el.title}</h3><ul>`
     el["apartments"].forEach(a=>{
         content +=  "<li>"+
-                    `<span class="ifon">${a.people} person (${a.price})</span><br>`+
+                    `<span class="info">${a.people} Personen (${a.price})</span><br>`+
                     `<span class="waiting">${a.waiting}</span>`+
                     "</li>"
     });
