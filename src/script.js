@@ -4,7 +4,7 @@ const layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
 
 let map = new L.map('map' , {
     center: [52.517106, 13.407627],
-    zoom: 13,
+    zoom: 12,
     layers: [layer]
 });
 
@@ -16,7 +16,7 @@ async function setMarkers(){
     locations.forEach(el => {
         let marker = new L.Marker([el.lat,el.lon]).addTo(map);
         marker.on("mouseover",event =>{
-            event.target.bindPopup('<div class="card"><h3>'+el.title+'</h3></div>', {closeButton: false}).openPopup();
+            event.target.bindPopup(createPopupContent(el), {closeButton: false}).openPopup();
         });
         marker.on("mouseout", event => {
             event.target.closePopup();
@@ -34,4 +34,16 @@ function getData(){
             console.error('Error loading the JSON:', err);
             return []
         });
+}
+
+function createPopupContent(el) {
+    let content = `<div class="card"><h3>${el.title}</h3><ul>`
+    el["apartments"].forEach(a=>{
+        content +=  "<li>"+
+                    `<span class="ifon">${a.people} person (${a.price})</span><br>`+
+                    `<span class="waiting">${a.waiting}</span>`+
+                    "</li>"
+    });
+    content += "</ul></div>";
+    return content;
 }
