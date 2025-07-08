@@ -18,7 +18,7 @@ def get_hausing_list()->list[dict]:
     for el in elems:
         lst.append({
             "url": f'{BASE_URL}/{el.attrs["href"]}',
-            "title": el.select_one('h2').text
+            "title": el.select_one('h3').text
         })
 
     return lst

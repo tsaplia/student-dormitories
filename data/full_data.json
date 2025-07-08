@@ -5,10 +5,10 @@
     "adress": "Allee der Kosmonauten 20 10315 Berlin",
     "apartments": [
       {
-        "number": "298",
+        "number": "284",
         "people": "1",
         "space": "12 – 27 qm",
-        "price": "302 – 367 €",
+        "price": "287 – 360 €",
         "waiting": "Wartezeit über 18 Monate"
       }
     ],
@@ -24,28 +24,28 @@
         "number": "6",
         "people": "1",
         "space": "20 qm",
-        "price": "302 – 322 €",
+        "price": "282 – 302 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "6",
         "people": "1",
         "space": "20 qm",
-        "price": "397 – 397 €",
+        "price": "377 – 377 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "745",
         "people": "1",
         "space": "20 – 21 qm",
-        "price": "327 – 372 €",
+        "price": "307 – 352 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "78",
         "people": "2",
         "space": "33 – 45 qm",
-        "price": "472 – 572 €",
+        "price": "432 – 532 €",
         "waiting": "Wartezeit über 18 Monate"
       }
     ],
@@ -61,14 +61,14 @@
         "number": "116",
         "people": "1",
         "space": "12 – 19 qm",
-        "price": "372 – 412 €",
+        "price": "357 – 397 €",
         "waiting": "Wartezeit über 24 Monate"
       },
       {
         "number": "37",
         "people": "1",
         "space": "26 – 34 qm",
-        "price": "402 – 457 €",
+        "price": "387 – 442 €",
         "waiting": "Wartezeit über 18 Monate"
       }
     ],
@@ -100,21 +100,21 @@
         "number": "12",
         "people": "1  ",
         "space": "10 – 30 qm",
-        "price": "472 – 552 €",
+        "price": "457 – 537 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "9",
         "people": "2",
         "space": "56 – 68 qm",
-        "price": "804 – 944 €",
+        "price": "774 – 914 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "12",
         "people": "1",
         "space": "23 – 25 qm",
-        "price": "457 – 457 €",
+        "price": "427 – 427 €",
         "waiting": "Wartezeit über 18 Monate"
       }
     ],
@@ -130,21 +130,21 @@
         "number": "387",
         "people": "1",
         "space": "11 – 19 qm",
-        "price": "302 – 337 €",
+        "price": "282 – 317 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "185",
         "people": "1",
         "space": "17 – 37 qm",
-        "price": "342 – 442 €",
+        "price": "322 – 422 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "64",
         "people": "2",
         "space": "48 – 51 qm",
-        "price": "622 – 632 €",
+        "price": "582 – 592 €",
         "waiting": "Wartezeit 7 - 18 Monate"
       }
     ],
@@ -213,21 +213,21 @@
         "number": "49",
         "people": "1",
         "space": "12 – 25 qm",
-        "price": "362 – 412 €",
+        "price": "352 – 402 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "10",
         "people": "2",
         "space": "26 – 29 qm",
-        "price": "602 – 602 €",
+        "price": "582 – 582 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "2",
         "people": "2",
         "space": "78 – 86 qm",
-        "price": "829 – 869 €",
+        "price": "809 – 849 €",
         "waiting": "Wartezeit über 18 Monate"
       }
     ],
@@ -280,21 +280,21 @@
         "number": "327",
         "people": "1",
         "space": "10 – 23 qm",
-        "price": "325 – 422 €",
+        "price": "340 – 437 €",
         "waiting": "Wartezeit 7 - 18 Monate"
       },
       {
         "number": "83",
         "people": "1",
         "space": "12 – 24 qm",
-        "price": "392 – 422 €",
+        "price": "407 – 437 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "2",
         "people": "1",
         "space": "22 – 24 qm",
-        "price": "457 – 487 €",
+        "price": "472 – 502 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
@@ -317,28 +317,28 @@
         "number": "609",
         "people": "1",
         "space": "15 – 37 qm",
-        "price": "272 – 397 €",
-        "waiting": "Wartezeit 7 - 18 Monate"
+        "price": "257 – 382 €",
+        "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "34",
         "people": "1",
         "space": "31 qm",
-        "price": "442 – 457 €",
+        "price": "424 – 442 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "34",
         "people": "2",
         "space": "46 qm",
-        "price": "542 – 577 €",
+        "price": "512 – 547 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "1",
         "people": "2",
         "space": "47 qm",
-        "price": "722 – 722 €",
+        "price": "692 – 692 €",
         "waiting": "Wartezeit über 18 Monate"
       }
     ],
@@ -414,8 +414,8 @@
         "number": "436",
         "people": "1",
         "space": "9 – 10 qm",
-        "price": "337 – 412 €",
-        "waiting": "Wartezeit über 18 Monate"
+        "price": "327 – 402 €",
+        "waiting": "Wartezeit 7 - 18 Monate"
       }
     ],
     "lat": "52.4209830",
@@ -446,12 +446,12 @@
         "number": "46",
         "people": "1",
         "space": "23 – 32 qm",
-        "price": "437 – 477 €",
+        "price": "417 – 457 €",
         "waiting": "Wartezeit über 18 Monate"
       }
     ],
-    "lat": "52.5098022",
-    "lon": "13.3262022"
+    "lat": "52.5099543",
+    "lon": "13.3259226"
   },
   {
     "url": "https://www.stw.berlin/wohnen/wohnheime/reinickendorf/wh-hoppestraße.html",
@@ -463,7 +463,7 @@
         "people": "1",
         "space": "13 – 22 qm",
         "price": "342 – 352 €",
-        "waiting": "Wartezeit über 18 Monate"
+        "waiting": "Wartezeit 7 - 18 Monate"
       }
     ],
     "lat": "52.5704193",
@@ -524,14 +524,14 @@
         "number": "86",
         "people": "1",
         "space": "15 – 15 qm",
-        "price": "422 – 432 €",
+        "price": "402 – 412 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "335",
         "people": "1",
         "space": "23 – 24 qm",
-        "price": "362 – 407 €",
+        "price": "342 – 387 €",
         "waiting": "Wartezeit über 18 Monate"
       }
     ],
@@ -570,19 +570,19 @@
         "number": "172",
         "people": "1",
         "space": "9 – 28 qm",
-        "price": "332 – 427 €",
+        "price": "327 – 422 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "11",
         "people": "1",
         "space": "21 – 33 qm",
-        "price": "442 – 482 €",
+        "price": "437 – 477 €",
         "waiting": "Wartezeit über 18 Monate"
       }
     ],
-    "lat": "52.4974800",
-    "lon": "13.3497124"
+    "lat": "52.4975421",
+    "lon": "13.3500657"
   },
   {
     "url": "https://www.stw.berlin/wohnen/wohnheime/marzahn-hellersdorf/wh-oberfeldstraße-(victor-jara).html",
@@ -593,33 +593,33 @@
         "number": "5",
         "people": "1",
         "space": "10 – 21 qm",
-        "price": "334 – 442 €",
+        "price": "314 – 422 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "7",
         "people": "2",
         "space": "44 – 62 qm",
-        "price": "552 – 567 €",
+        "price": "512 – 527 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "513",
         "people": "1",
         "space": "18 – 33 qm",
-        "price": "372 – 427 €",
+        "price": "352 – 407 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "51",
         "people": "2-4",
         "space": "37 – 127 qm",
-        "price": "584 – 1056 €",
+        "price": "544 – 996 €",
         "waiting": "Wartezeit 7 - 18 Monate"
       }
     ],
-    "lat": "52.5289008",
-    "lon": "13.5586193"
+    "lat": "52.5276539",
+    "lon": "13.5580828"
   },
   {
     "url": "https://www.stw.berlin/wohnen/wohnheime/charlottenburg-wilmersdorf/wh-pfalzburgerstraße.html",
@@ -646,33 +646,33 @@
         "number": "7",
         "people": "1",
         "space": "13 – 24 qm",
-        "price": "392 – 492 €",
+        "price": "382 – 482 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "2",
         "people": "2",
         "space": "33 – 44 qm",
-        "price": "677 – 677 €",
+        "price": "657 – 657 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "362",
         "people": "1",
         "space": "20 – 43 qm",
-        "price": "392 – 517 €",
+        "price": "382 – 507 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "56",
         "people": "2",
         "space": "40 – 60 qm",
-        "price": "597 – 739 €",
+        "price": "577 – 719 €",
         "waiting": "Wartezeit über 18 Monate"
       }
     ],
-    "lat": "52.5040643",
-    "lon": "13.3670078"
+    "lat": "52.5040639",
+    "lon": "13.3669909"
   },
   {
     "url": "https://www.stw.berlin/wohnen/wohnheime/lichtenberg/wh-sewanstraße.html",
@@ -683,14 +683,14 @@
         "number": "667",
         "people": "1",
         "space": "14 – 19 qm",
-        "price": "277 – 382 €",
+        "price": "257 – 362 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "31",
         "people": "1",
         "space": "38 – 43 qm",
-        "price": "467 – 477 €",
+        "price": "362 – 457 €",
         "waiting": "Wartezeit über 18 Monate"
       }
     ],
@@ -706,28 +706,28 @@
         "number": "533",
         "people": "1",
         "space": "9 – 17 qm",
-        "price": "322 – 432 €",
+        "price": "312 – 422 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "16",
         "people": "1",
         "space": "15 – 20 qm",
-        "price": "442 – 689 €",
+        "price": "432 – 669 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "1",
         "people": "2",
         "space": "42 – 42 qm",
-        "price": "552 – 552 €",
+        "price": "532 – 532 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "39",
         "people": "1",
         "space": "21 – 27 qm",
-        "price": "457 – 527 €",
+        "price": "447 – 517 €",
         "waiting": "Wartezeit über 18 Monate"
       }
     ],
@@ -740,17 +740,17 @@
     "adress": "Spandauer Damm 134 14050 Berlin",
     "apartments": [
       {
-        "number": "200",
+        "number": "196",
         "people": "1",
         "space": "16 – 25 qm",
-        "price": "337 – 357 €",
+        "price": "317 – 337 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
-        "number": "104",
+        "number": "105",
         "people": "1",
         "space": "21 – 27 qm",
-        "price": "402 – 437 €",
+        "price": "377 – 417 €",
         "waiting": "Wartezeit über 18 Monate"
       }
     ],
@@ -766,21 +766,21 @@
         "number": "345",
         "people": "1",
         "space": "13 – 15 qm",
-        "price": "322 – 392 €",
+        "price": "307 – 377 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "83",
         "people": "1",
         "space": "22 – 31 qm",
-        "price": "377 – 412 €",
+        "price": "362 – 397 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "40",
         "people": "2",
         "space": "39 – 43 qm",
-        "price": "644 – 664 €",
+        "price": "614 – 634 €",
         "waiting": "Wartezeit 7 - 18 Monate"
       }
     ],
@@ -796,14 +796,14 @@
         "number": "49",
         "people": "1",
         "space": "10 – 23 qm",
-        "price": "270 – 355 €",
+        "price": "275 – 360 €",
         "waiting": "Wartezeit über 18 Monate"
       },
       {
         "number": "2",
         "people": "1",
         "space": "34 – 35 qm",
-        "price": "355 – 410 €",
+        "price": "360 – 415 €",
         "waiting": "Wartezeit über 18 Monate"
       }
     ],
